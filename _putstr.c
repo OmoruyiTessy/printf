@@ -16,7 +16,7 @@ int _putstr(char *s)
 			count++;
 		}
 	}
-	else 
+	else
 	{
 		_putstr("(null)");
 		count = 6;
